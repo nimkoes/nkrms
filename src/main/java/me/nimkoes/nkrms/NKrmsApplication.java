@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class NkrmsApplication {
+public class NKrmsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(NkrmsApplication.class, args);
+		SpringApplication.run(NKrmsApplication.class, args);
 	}
 
 }

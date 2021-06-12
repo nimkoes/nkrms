@@ -1,4 +1,4 @@
 package me.nimkoes.nkrms.dto.request;
 
-public class SampleDTO {
+public class SampleRQDTO {
 }
